@@ -24,6 +24,12 @@ mouse controls using **MediaPipe Hand Landmarker**, **OpenCV**, and
     model if it is not already present.
 -   🛑 **Safe quit** --- Press `Q` to stop the application.
 
+##  Demo
+Here is a demonstration of the hand gesture mouse controller. The video is intentionally **muted** so it can be shared on GitHub without audio.
+
+https://github.com/user-attachments/assets/1d9ba11c-f1ad-4118-9cbf-5351011d60ea
+
+
 ## Project Structure
 
 ``` text
